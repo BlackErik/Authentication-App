@@ -1,0 +1,28 @@
+{
+  "name": "authentication-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackErik/Authentication-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackErik/Authentication-App/issues"
+  },
+  "homepage": "https://github.com/BlackErik/Authentication-App#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "flags": "^0.1.3",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
